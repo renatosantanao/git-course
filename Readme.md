@@ -1,2 +1,4 @@
 #Git cours
-Este é repositório para ensinar como usar o git
+Este é repositório para ensinar como usar o gi
+
+Gostou do curso?t
